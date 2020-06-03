@@ -1,4 +1,4 @@
-# Phala ERC20
+# HACK ERC20
 
 The contract has been deployed at [](https://etherscan.io/address/).
 
